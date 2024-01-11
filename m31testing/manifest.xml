@@ -3,10 +3,10 @@
   <RomName>TukiRom</RomName>
   <VersionName>TukiOS V2.0</VersionName>
   <BuildNumber type="integer">20240105</BuildNumber>
-  <DownloadURL>https://store7.gofile.io/download/931a7ed0-c6b2-42f3-8567-3016ddb144bb/aroma_installer-arm64.zip</DownloadURL>
+  <DownloadURL>https://ia601205.us.archive.org/27/items/TukiOS/aroma_installer-arm64.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.0</OneUIVer>
-  <CheckMD5>b63e9a532ac7b9c400fb7f1ac3aaa05d</CheckMD5>
+  <CheckMD5>1c5db8c93b5c6f21ced463564fc85bfe</CheckMD5>
   <FileSize type="long">4395508</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/pachdomenic/TukiRom-OTA/manifest/changelogheader1100.png</ChangelogHeader>
