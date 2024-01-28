@@ -2,7 +2,7 @@
 <OnOTAInfo>
   <RomName>TukiRom</RomName>
   <VersionName>TukiOS V2.0</VersionName>
-  <BuildNumber type="integer">20240128</BuildNumber>
+  <BuildNumber type="integer">20242801</BuildNumber>
   <DownloadURL>https://ia601205.us.archive.org/27/items/TukiOS/TukiOS_Beta_3.0.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.0</OneUIVer>
