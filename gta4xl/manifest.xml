@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OnOTAInfo>
+  <RomName>TukiRom</RomName>
+  <VersionName>TukiOS V1</VersionName>
+  <BuildNumber type="integer">20240603</BuildNumber>
+  <DownloadURL></DownloadURL>
+  <AndroidVer>14</AndroidVer>
+  <OneUIVer>6.0</OneUIVer>
+  <CheckMD5></CheckMD5>
+  <FileSize type="long">9579617</FileSize>
+  <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
+  <ChangelogHeader>https://raw.githubusercontent.com/pachdomenic/TukiRom-OTA/manifest/changelogheader1100.png</ChangelogHeader>
+  <ChangelogURL>https://raw.githubusercontent.com/pachdomenic/TukiRom-OTA/manifest/gta4xl/changelog.txt</ChangelogURL>
+</OnOTAInfo>
